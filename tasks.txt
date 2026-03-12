@@ -1,0 +1,2 @@
+- read
+- learn python
